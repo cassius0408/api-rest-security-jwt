@@ -59,7 +59,7 @@ No IDE (pode ser intellij ou Sprin Boot Suit 4), File > Open File.
 - Java 1.8
 
 ## Clonagem 
-git clone https://github.com/cassius0408/curso-dio-springboot-jpa.git
+git clone https://github.com/cassius0408/api-rest-security-jwt.git
 
 
 ## Contato
